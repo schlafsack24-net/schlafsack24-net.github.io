@@ -1,0 +1,134 @@
+{
+    "domain": "schlafsack24.net",
+    "hostname": "https://www.schlafsack24.net",
+    "email": "schlafsack24.net@surrealnetworks.io",
+    "organization": "schlafsack24.net",
+    "logoText": "schlafsack24.net",                                             
+    "title": "Schlafsack | Outdoor Camping Ausrüstung",
+    "subline": "Schlafsack | Sommerschlafsack, Winterschlafsack, Camping Schlafsack",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        ],
+    "winnerProducts": [],
+    "featuredCategories": [],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/schlafsack24-net",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Schlafsack",
+        "featureText": "<p class=\"mb-4\">Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse. Wir führen eine Vielzahl von Schlafsäcken einschließlich Winterschlafsäcke und Camping-Schlafsäcke.</p><p>Ein Schlafsack ist der perfekte Weg, um es nachts warm und gemütlich zu haben.</p>",
+        "index": {
+            "title": "Outdoor Schlafsack",
+            "metaDescription": "Kaufen Sie einen Schlafsack zu einem erschwinglichen Preis und haben die beste Qualität Ihrer Wahl. Wir bieten alle Marken und Arten von Schlafsäcken, so dass Sie den besten für Sie wählen können. Sie werden bei uns fündig!",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Alle Schlafsäcke und Marken im Überblick.",
+            "metaDescription": "Shop für den qualitativ hochwertigen Schlafsack zu günstigen Preisen. Wir haben eine große Auswahl an Taschen und Ausrüstung von Top-Marken.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Hersteller für Schlafsäcke im Überblick",
+            "metaDescription": "Ein Schlafsack ist so konzipiert, dass Sie warm und bequem halten sollen. Werfen Sie nun einen Blick auf unsere große Auswahl!",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Schlafsack Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Schlafsack Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "categories": [{
+            "key": "Schlafsack",
+            "slug": "Schlafsack",
+            "name": "Schlafsack",
+            "seo": {
+                "title": "Schlafsäcke günstig kaufen",
+                "metaDescription": "Schlafsäcke sind ein Muss für jeden Outdoor-Ausflug. Bleiben Sie warm und komfortabel die ganze Nacht lang mit einem dieser top-bewerteten Schlafsäcke.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Schlafsack Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Shoppen Sie von einer unseren empfehlenswertesten Auswahl.",
+        "defaultRobots": "noindex, follow",
+        "brands": [{
+                "key": "Carinthia",
+                "name": "Carinthia",
+                "seo": {
+                    "title": "Produkte von Carinthia günstig kaufen",
+                    "metaDescription": "Alle Produkte von Carinthia im Überblick. Produkte und Testsieger. Der Hersteller für gute Schlafsäcke.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Sea To Summit",
+                "name": "Sea To Summit",
+                "seo": {
+                    "title": "Produkte von Sea To Summit günstig kaufen",
+                    "metaDescription": "Alle Produkte von Sea To Summit im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte wie z.B. ein Schlafsack mit Beinen.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Nachhaltig",
+        "Komfort",
+        "Vielseitiger Einsatzbereich",
+        "Sehr gute Konstruktion",
+        "Gut komprimierbar"
+    ],
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Schlafsack",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Schlafsack Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Schlafsack Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
