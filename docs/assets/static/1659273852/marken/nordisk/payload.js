@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/nordisk", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nordisk-oscar-2-curve-kunstfaserschlafsack-nordisk-5637887149.jpg":"\u002Fassets\u002Fimages\u002Fnordisk-oscar-2-curve-kunstfaserschlafsack-nordisk-5637887149.webp"}}],fetch:{},mutations:void 0});

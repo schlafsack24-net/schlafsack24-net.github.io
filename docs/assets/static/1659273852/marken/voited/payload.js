@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/voited", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/voited-fleece-blanket-decke-voited-5637945946.jpg":"\u002Fassets\u002Fimages\u002Fvoited-fleece-blanket-decke-voited-5637945946.webp"}}],fetch:{},mutations:void 0});
