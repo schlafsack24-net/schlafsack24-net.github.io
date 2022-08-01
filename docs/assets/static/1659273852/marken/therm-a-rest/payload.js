@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/therm-a-rest", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/therm-a-rest-ramble-down-blanket-decke-therm-a-rest-5637718367.jpg":"\u002Fassets\u002Fimages\u002Ftherm-a-rest-ramble-down-blanket-decke-therm-a-rest-5637718367.webp"}}],fetch:{},mutations:void 0});

@@ -3,7 +3,7 @@
     "hostname": "https://www.schlafsack24.net",
     "email": "schlafsack24.net@surrealnetworks.io",
     "organization": "schlafsack24.net",
-    "logoText": "schlafsack24.net",                                             
+    "logoText": "schlafsack24.net",
     "title": "Schlafsack | Outdoor Camping Ausrüstung",
     "subline": "Schlafsack | Sommerschlafsack, Winterschlafsack, Camping Schlafsack",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
@@ -14,9 +14,23 @@
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
     "popularProducts": [
-        ],
-    "winnerProducts": [],
-    "featuredCategories": [],
+        "5637456573",
+        "5637531405",
+        "5637829069"
+    ],
+    "winnerProducts": [
+        "5637974299",
+        "5637974309",
+        "5637522434"
+    ],
+    "featuredCategories": [
+        "Kunstfaserschlafsäcke",
+        "Daunenschlafsäcke",
+        "Inletts",
+        "Kissen",
+        "Decken",
+        "Biwak"
+    ],
     "socialMediaAccounts": [{
         "name": "Twitter",
         "link": "https://www.twitter.com/schlafsack24-net",
