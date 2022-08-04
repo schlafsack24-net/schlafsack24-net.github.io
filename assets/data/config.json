@@ -44,7 +44,7 @@
         "featureText": "<p class=\"mb-4\">Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse. Wir führen eine Vielzahl von Schlafsäcken einschließlich Winterschlafsäcke und Camping-Schlafsäcke.</p><p>Ein Schlafsack ist der perfekte Weg, um es nachts warm und gemütlich zu haben.</p>",
         "index": {
             "title": "Outdoor Schlafsack",
-            "metaDescription": "Kaufen Sie einen Schlafsack zu einem erschwinglichen Preis und haben die beste Qualität Ihrer Wahl. Wir bieten alle Marken und Arten von Schlafsäcken, so dass Sie den besten für Sie wählen können. Sie werden bei uns fündig!",
+            "metaDescription": "Kaufen Sie einen Schlafsack zum Best-Preis in unserem Online Shop für Schlafsäcke. Wir bieten alle Marken und Arten von Schlafsäcken. Produkte auf Lager.",
             "robots": "index, follow"
         },
         "shop": {
@@ -59,9 +59,9 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | Schlafsack Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$PRODUKT | Schlafsack Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -74,8 +74,8 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Schlafsack Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Produkte und Testsieger aus der Kategorie $KATEGORIE. Kaufen Sie ihren Schlafsack zum Best-Preis und sparen Sie Versandkosten und lange Wartezeiten.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "Schlafsack",
             "slug": "Schlafsack",
@@ -89,8 +89,8 @@
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Schlafsack Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Shoppen Sie von einer unseren empfehlenswertesten Auswahl.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Alle Schlafsäcke von $HERSTELLER finden Sie in unserem Shop für Schlafsäcke. Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "Carinthia",
                 "name": "Carinthia",
