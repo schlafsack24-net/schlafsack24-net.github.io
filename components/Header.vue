@@ -105,7 +105,7 @@ export default {
 
     return {
       config,
-      featuredCategories: categories.featuredCategories,
+      featuredCategories: categories,
       navigationLinks: config.navigationLinks.filter(
         (x) => !x.subLinks && x.publish
       ),
