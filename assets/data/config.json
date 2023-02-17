@@ -101,12 +101,22 @@
         "defaultRobots": "index, follow",
         "products": [
             {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
+                "sku": "5637824850",
+                "name": "Marmot FUCOSA -9 Daunenschlafsack",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
+                    "title": "Marmot FUCOSA -9 Daunenschlafsack kaufen | schlafsack24.net",
+                    "metaDescription": "Marmot FUCOSA -9 Daunenschlafsack von Marmot in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie Daunenschlafsäcke.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Produkt-Beschreibung:",
+                            "text": "Der Marmot Fucosa ist ein Premium-Qualitätsschlafsack, der für Outdoor-Enthusiasten und Abenteurer entwickelt wurde. Dieser Schlafsack ist mit der firmeneigenen Thermal R-Isolierung von Marmot ausgestattet, die für überragende Wärme und Komfort bei kalten Temperaturen sorgt. Der Fucosa hat eine Mumienform, die den Wärmeverlust reduziert und das Eindringen von kalter Luft in den Schlafsack verhindert. Die Tasche ist außerdem mit einem durchgehenden Zwei-Wege-Reißverschluss ausgestattet, der den Ein- und Ausstieg sowie die Temperaturregulierung erleichtert. Kapuze, Nacken- und Fußteil sind für eine individuelle Passform verstellbar, und der Innenraum ist mit weichem, bequemem Stoff gefüttert. Die Fucosa ist in drei Größen erhältlich und eignet sich mit einem flexiblenTemperaturbereich ideal für Camping, Rucksacktouren und andere Outdoor-Aktivitäten."
+                        },
+                        {
+                            "title": "Produkt-Review:",
+                            "text": "Ich habe den Marmot Fucosa Schlafsack vor kurzem für eine Rucksacktour gekauft und ich könnte nicht zufriedener mit meinem Kauf sein. Der Schlafsack ist gut konstruiert und die Thermal R Isolierung ist erstklassig. Selbst in kalten Nächten war ich warm und gemütlich. Die Mumienform ist großartig, um die Wärme zu maximieren, und die verstellbare Kapuze, der Nacken- und der Fußbereich sind praktische Funktionen. Ich schätze besonders den durchgehenden Zwei-Wege-Reißverschluss, der das Ein- und Aussteigen und die Temperaturregulierung erleichtert. Ich würde den Marmot Fucosa jedem empfehlen, der einen hochwertigen, warmen und bequemen Schlafsack sucht."
+                        }
+                    ]
                 }
             }
         ]

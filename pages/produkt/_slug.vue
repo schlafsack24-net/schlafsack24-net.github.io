@@ -1,11 +1,7 @@
 <template>
   <div>
-    <ProductHeader
-      :product="product"
-      :productName="product.name"
-      :textContent="product.description"
-      :productImage="`${config.imageFolder}${product.localThumb}`"
-    ></ProductHeader>
+    <ProductHeader :product="product" :productName="product.name" :textContent="product.description"
+      :productImage="`${config.imageFolder}${product.localThumb}`"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -13,42 +9,24 @@
         <div class="row g-5">
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">{{ product.name }}</h2>
-            <div v-if="seoData && seoData.seo && seoData.seo.texts">
-              <div v-for="(text, index) in seoData.seo.texts" :key="index">
-                <div class="mb-3 mt-5 h5">
-                  {{ text.title }}
-                </div>
-                <p class="mb-4">
-                  {{ text.text }}
-                </p>
-              </div>
-            </div>
+            <ProductSeoText :seoData="seoData" />
 
             <Checklist />
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="product.shopLink"
-                style="display: block; width: 100%"
-                >{{ product.brand }} Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="product.shopLink"
+                style="display: block; width: 100%">{{ product.brand }} Online Shop</a>
             </div>
           </div>
         </div>
       </div>
     </div>
+
+
     <div class="container">
       <div class="text-center fadeInUp">
         <div class="section-title bg-white text-center text-primary px-3 h6">
@@ -75,15 +53,15 @@ export default {
       title:
         this.seoData && this.seoData.seo && this.seoData.seo.title
           ? this.seoData.seo.title
-              .replaceAll("$PRODUKT", this.product.name)
-              .replaceAll("$HERSTELLER", this.product.brand)
-              .replaceAll("$KATEGORIE", this.category)
-              .replaceAll("$DOMAIN", this.config.domain)
+            .replaceAll("$PRODUKT", this.product.name)
+            .replaceAll("$HERSTELLER", this.product.brand)
+            .replaceAll("$KATEGORIE", this.category)
+            .replaceAll("$DOMAIN", this.config.domain)
           : config.productSeo.defaultTitle
-              .replaceAll("$PRODUKT", this.product.name)
-              .replaceAll("$HERSTELLER", this.product.brand)
-              .replaceAll("$KATEGORIE", this.category)
-              .replaceAll("$DOMAIN", this.config.domain),
+            .replaceAll("$PRODUKT", this.product.name)
+            .replaceAll("$HERSTELLER", this.product.brand)
+            .replaceAll("$KATEGORIE", this.category)
+            .replaceAll("$DOMAIN", this.config.domain),
       meta: [
         {
           hid: "description",
@@ -91,15 +69,15 @@ export default {
           content:
             this.seoData && this.seoData.seo && this.seoData.seo.metaDescription
               ? this.seoData.seo.metaDescription
-                  .replaceAll("$PRODUKT", this.product.name)
-                  .replaceAll("$HERSTELLER", this.product.brand)
-                  .replaceAll("$KATEGORIE", this.category)
-                  .replaceAll("$DOMAIN", this.config.domain)
+                .replaceAll("$PRODUKT", this.product.name)
+                .replaceAll("$HERSTELLER", this.product.brand)
+                .replaceAll("$KATEGORIE", this.category)
+                .replaceAll("$DOMAIN", this.config.domain)
               : config.productSeo.defaultMetaDescription
-                  .replaceAll("$PRODUKT", this.product.name)
-                  .replaceAll("$HERSTELLER", this.product.brand)
-                  .replaceAll("$KATEGORIE", this.category)
-                  .replaceAll("$DOMAIN", this.config.domain),
+                .replaceAll("$PRODUKT", this.product.name)
+                .replaceAll("$HERSTELLER", this.product.brand)
+                .replaceAll("$KATEGORIE", this.category)
+                .replaceAll("$DOMAIN", this.config.domain),
         },
         {
           hid: "robots",
