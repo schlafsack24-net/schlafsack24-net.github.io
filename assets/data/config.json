@@ -32,21 +32,57 @@
         "Decken",
         "Biwak"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/schlafsack24-net",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/schlafsack24-net",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Schlafsack",
-        "featureText": "<p class=\"mb-4\">Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse. Wir führen eine Vielzahl von Schlafsäcken einschließlich Winterschlafsäcke und Camping-Schlafsäcke.</p><p>Ein Schlafsack ist der perfekte Weg, um es nachts warm und gemütlich zu haben.</p>",
+        "featureText": "<p class=\"mb-4\">Sind Sie auf der Suche nach dem ultimativen Schlafsack für Ihr nächstes Abenteuer? Dann sind Sie bei Schlafsack24.net genau richtig! Wir bieten Ihnen eine große Auswahl an hochwertigen Schlafsäcken für alle Ihre Bedürfnisse, ob Sie nun in der freien Natur campen oder zu Hause faulenzen.</p><p class=\"mb-4\">Wir von Schlafsack24.net wissen, dass Komfort das A und O bei Schlafsäcken ist. Deshalb wählen wir sorgfältig die besten Produkte aus, damit Sie überall einen guten Schlaf genießen können. Mit unserer benutzerfreundlichen Website war es noch nie so einfach, den perfekten Schlafsack zu finden. Stöbern Sie einfach durch unsere Kategorien wie z.B. Daunenschlafsäcke, Inletts, Kunstfaserschlafsäcken und finden Sie den passenden Schlafsack für Ihre Bedürfnisse.</p><p class=\"mb-4\">Egal, ob Sie ein erfahrener Camper oder ein Neuling sind, wir haben das Richtige für Sie. Unsere Schlafsäcke sind so konzipiert, dass sie maximale Wärme und Schutz vor den Elementen bieten, damit Sie sich ganz auf Ihr Abenteuer konzentrieren können. Und mit unseren wettbewerbsfähigen Preisen und schnellem Versand können Sie sicher sein, dass Sie den besten Gegenwert für Ihr Geld bekommen.</p><p class=\"mb-4\">Worauf warten Sie also noch? Schauen Sie noch heute bei Schlafsack24.net vorbei und finden Sie den Schlafsack Ihrer Träume!</p>",
         "index": {
             "title": "Outdoor Schlafsack",
             "metaDescription": "Kaufen Sie einen Schlafsack zum Best-Preis in unserem Online Shop für Schlafsäcke. Wir bieten alle Marken und Arten von Schlafsäcken. Produkte auf Lager.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [
+                {
+                    "title": "Willkommen bei Schlafsack24.net, Ihrem Experten für hochwertige Schlafsack-Produkte und Outdoor-Ausrüstung.",
+                    "text": "Bei uns finden Sie eine große Auswahl an Schlafsäcken, Inletts, Kissen, Decken und Biwak-Produkten für Ihre nächste Outdoor-Expedition. Ob Camping, Trekking oder Backpacking - wir bieten Ihnen hochwertige Produkte, die höchsten Ansprüchen gerecht werden. Unsere Produkte zeichnen sich durch eine hohe Qualität, Langlebigkeit und Funktionalität aus und sind sowohl für den Sommer als auch den Winter geeignet. Entdecken Sie jetzt unser breites Sortiment und lassen Sie sich von unserer Expertise und unserem ausgezeichneten Kundenservice überzeugen."
+                },
+                {
+                    "title": "Inletts",
+                    "text": "<a href=\"/kategorie/inletts/\" title=\"Inletts\">Inletts</a> sind eine unverzichtbare Ergänzung für jeden Schlafsack. Sie sorgen nicht nur für eine zusätzliche Schutzschicht, sondern können auch die Wärmeleistung und die Lebensdauer des Schlafsacks erhöhen. Ein Inlett aus Baumwolle ist besonders angenehm auf der Haut und eignet sich hervorragend für warme Nächte. Für kalte Nächte empfehlen sich hingegen Inletts aus Seide oder Fleece, da sie wärmer halten. Bei uns finden Sie eine große Auswahl an Inletts in verschiedenen Größen und Materialien."
+                },
+                {
+                    "title": "Kissen",
+                    "text": "Ein gutes <a href=\"/kategorie/kissen/\" title=\"Kissen\">Kissen</a> ist der Schlüssel zu einem erholsamen Schlaf im Freien. Unsere Kissen sind ergonomisch geformt und passen sich perfekt an die Kopfform an. Wir führen sowohl aufblasbare als auch feste Kissen, je nach persönlichem Vorlieben. Die Bezüge sind in verschiedenen Materialien erhältlich, darunter Baumwolle und Microfaser. Mit unseren Kissen sind Sie bestens gerüstet für eine angenehme Nachtruhe im Schlafsack."
+                },
+                {
+                    "title": "Kunstfaserschlafsäcke",
+                    "text": "<a href=\"/kategorie/kunstfaserschlafsaecke/\" title=\"Kunstfaserschlafsäcke\">Kunstfaserschlafsäck</a> sind eine praktische Alternative zu Daunenschlafsäcken, insbesondere bei nasser Witterung. Unsere Kunstfaserschlafsäcke sind leicht, atmungsaktiv und halten auch bei Feuchtigkeit warm. Wir führen eine große Auswahl an Schlafsäcken in verschiedenen Größen und Designs. Ob für den Sommerurlaub oder den Winterausflug - bei uns finden Sie den perfekten Kunstfaserschlafsack für Ihre Bedürfnisse."
+                },
+                {
+                    "title": "Daunenschlafsäcke",
+                    "text": "<a href=\"/kategorie/daunenschlafsaecke/\" title=\"Daunenschlafsäcke\">Daunenschlafsäcke</a> sind die erste Wahl für alle, die Wert auf maximale Wärmeleistung bei minimalem Gewicht legen. Unsere Daunenschlafsäcke sind mit hochwertigen Gänsedaunen gefüllt und bieten eine hervorragende Isolationsleistung. Die Außenhülle ist aus strapazierfähigem Material gefertigt und schützt den Schlafsack vor Feuchtigkeit und Schmutz. Wir führen Daunenschlafsäcke in verschiedenen Größen und Isolationsstärken - für jeden Anspruch das richtige Modell."
+                },
+                {
+                    "title": "Decken",
+                    "text": "Unsere <a href=\"/kategorie/decken/\" title=\"Decken\">Decken</a> sind die perfekte Ergänzung für alle, die es im Schlafsack gerne besonders kuschelig haben. Ob als zusätzliche Wärmeschicht oder als gemütlicher Begleiter für den Abend am Lagerfeuer - unsere Decken sind vielseitig einsetzbar. Wir führen sowohl leichte Sommerdecken als auch wärmende Winterdecken, jeweils in verschiedenen Größen und Designs. Mit einer unserer Decken sind Sie bestens gerüstet für eine entspannte Nacht im Freien."
+                },
+                {
+                    "title": "Biwak",
+                    "text": "Für alle, die das Abenteuer lieben, bieten wir eine große Auswahl an Biwak-Ausrüstung. Von <a href=\"/kategorie/biwak/\" title=\"Biwak\">Biwaksäcken</a> über Zelte bis hin zu Campingkochern - bei uns finden Sie alles, was Sie für eine erfolgreiche Expedition benötigen. Unsere Produkte sind robust, leicht und strapazierfähig und eignen sich sowohl für den Sommer als auch den Winter. Entdecken Sie unsere Biwak-Produkte und machen Sie sich bereit für das nächste Abenteuer. Wir führen Biwaksäcke in verschiedenen Größen und Ausführungen, die Sie vor Wind und Wetter schützen. Unsere Zelte sind leicht und einfach aufzubauen und bieten Ihnen auch bei schlechtem Wetter einen sicheren Unterschlupf. Für das perfekte Outdoor-Erlebnis finden Sie bei uns auch Campingkocher, Lampen und alles, was Sie für eine erfolgreiche Expedition benötigen. Unsere Biwak-Produkte sind von hoher Qualität und eignen sich für Outdoor-Enthusiasten und Camping-Fans gleichermaßen."
+                },
+                {
+                    "title": "Schlafen Sie gut mit Schlafsack24.net - Ihr Experte für hochwertige Schlafsäcke und Outdoor-Ausrüstung",
+                    "text": "Vielen Dank, dass Sie <a href=\"/\" title=\"Schlafsack online kaufen\">Schlafsack24.net</a> besucht haben. Wir hoffen, dass wir Ihnen bei der Suche nach dem perfekten Schlafsack oder der passenden Outdoor-Ausrüstung behilflich sein konnten. Sollten Sie Fragen haben oder weitere Informationen benötigen, stehen wir Ihnen gerne zur Verfügung. Unser kompetentes Team berät Sie gerne und hilft Ihnen bei der Auswahl des richtigen Produkts. Wir freuen uns auf Ihre Bestellung und wünschen Ihnen eine gute Nacht unter freiem Himmel!"
+                }
+            ]
         },
         "shop": {
             "title": "Alle Schlafsäcke und Marken im Überblick.",
@@ -63,36 +99,41 @@
         "defaultTitle": "$PRODUKT | Schlafsack Shop",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Schlafsack Shop",
         "defaultMetaDescription": "Produkte und Testsieger aus der Kategorie $KATEGORIE. Kaufen Sie ihren Schlafsack zum Best-Preis und sparen Sie Versandkosten und lange Wartezeiten.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "Schlafsack",
-            "slug": "Schlafsack",
-            "name": "Schlafsack",
-            "seo": {
-                "title": "Schlafsäcke günstig kaufen",
-                "metaDescription": "Schlafsäcke sind ein Muss für jeden Outdoor-Ausflug. Bleiben Sie warm und komfortabel die ganze Nacht lang mit einem dieser top-bewerteten Schlafsäcke.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "Schlafsack",
+                "slug": "Schlafsack",
+                "name": "Schlafsack",
+                "seo": {
+                    "title": "Schlafsäcke günstig kaufen",
+                    "metaDescription": "Schlafsäcke sind ein Muss für jeden Outdoor-Ausflug. Bleiben Sie warm und komfortabel die ganze Nacht lang mit einem dieser top-bewerteten Schlafsäcke.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Schlafsack Shop",
         "defaultMetaDescription": "Alle Schlafsäcke von $HERSTELLER finden Sie in unserem Shop für Schlafsäcke. Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "Carinthia",
                 "name": "Carinthia",
                 "seo": {
@@ -121,7 +162,8 @@
         "Sehr gute Konstruktion",
         "Gut komprimierbar"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Schlafsack",
