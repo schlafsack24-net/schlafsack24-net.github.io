@@ -38,7 +38,7 @@ import config from "~/assets/data/config.json";
 import createFAQitems from "~/helpers/createFAQitems";
 
 const seoData = config.seo.faq;
-const faqData = createFAQitems(config.seo.faq.faqs)
+const faqData = createFAQitems(seoData.faqs)
 
 export default {
     name: "FaqPage",
