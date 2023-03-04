@@ -1,1 +1,44 @@
-[{"key": "inletts", "name": "Inletts", "slug": "inletts", "productCategory": "Inletts", "subCategories": []}, {"key": "kissen", "name": "Kissen", "slug": "kissen", "productCategory": "Kissen", "subCategories": []}, {"key": "kunstfaserschlafsäcke", "name": "Kunstfaserschlafsäcke", "slug": "kunstfaserschlafsaecke", "productCategory": "Kunstfaserschlafsäcke", "subCategories": []}, {"key": "daunenschlafsäcke", "name": "Daunenschlafsäcke", "slug": "daunenschlafsaecke", "productCategory": "Daunenschlafsäcke", "subCategories": []}, {"key": "decken", "name": "Decken", "slug": "decken", "productCategory": "Decken", "subCategories": []}, {"key": "biwak", "name": "Biwak", "slug": "biwak", "productCategory": "Biwak", "subCategories": []}]
+[
+    {
+        "key": "inletts",
+        "name": "Inletts",
+        "slug": "inletts",
+        "productCategory": "Inletts",
+        "subCategories": []
+    },
+    {
+        "key": "kissen",
+        "name": "Kissen",
+        "slug": "kissen",
+        "productCategory": "Kissen",
+        "subCategories": []
+    },
+    {
+        "key": "kunstfaserschlafsäcke",
+        "name": "Kunstfaserschlafsäcke",
+        "slug": "kunstfaserschlafsaecke",
+        "productCategory": "Kunstfaserschlafsäcke",
+        "subCategories": []
+    },
+    {
+        "key": "daunenschlafsäcke",
+        "name": "Daunenschlafsäcke",
+        "slug": "daunenschlafsaecke",
+        "productCategory": "Daunenschlafsäcke",
+        "subCategories": []
+    },
+    {
+        "key": "decken",
+        "name": "Decken",
+        "slug": "decken",
+        "productCategory": "Decken",
+        "subCategories": []
+    },
+    {
+        "key": "biwak",
+        "name": "Biwak",
+        "slug": "biwak",
+        "productCategory": "Biwak",
+        "subCategories": []
+    }
+]
