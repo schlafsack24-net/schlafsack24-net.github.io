@@ -1,341 +1,348 @@
 {
-  "configIsReady": true,
-  "domain": "schlafsack24.net",
-  "hostname": "https://www.schlafsack24.net",
-  "email": "schlafsack24.net@surrealnetworks.io",
-  "organization": "schlafsack24.net",
-  "logoText": "schlafsack24.net",
-  "title": "Schlafsack | Outdoor Camping Ausrüstung",
-  "subline": "Schlafsack | Sommerschlafsack, Winterschlafsack, Camping Schlafsack",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637456573",
-    "5637531405",
-    "5637829069"
-  ],
-  "winnerProducts": [
-    "5637974299",
-    "5637974309",
-    "5637522434"
-  ],
-  "featuredCategories": [
-    "Kunstfaserschlafsäcke",
-    "Daunenschlafsäcke",
-    "Inletts",
-    "Kissen",
-    "Decken",
-    "Biwak"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/schlafsack24-net",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Schlafsack",
-    "featureText": "<p class=\"mb-4\">Sind Sie auf der Suche nach dem ultimativen Schlafsack für Ihr nächstes Abenteuer? Dann sind Sie bei Schlafsack24.net genau richtig! Wir bieten Ihnen eine große Auswahl an hochwertigen Schlafsäcken für alle Ihre Bedürfnisse, ob Sie nun in der freien Natur campen oder zu Hause faulenzen.</p><p class=\"mb-4\">Wir von Schlafsack24.net wissen, dass Komfort das A und O bei Schlafsäcken ist. Deshalb wählen wir sorgfältig die besten Produkte aus, damit Sie überall einen guten Schlaf genießen können. Mit unserer benutzerfreundlichen Website war es noch nie so einfach, den perfekten Schlafsack zu finden. Stöbern Sie einfach durch unsere Kategorien wie z.B. Daunenschlafsäcke, Inletts, Kunstfaserschlafsäcken und finden Sie den passenden Schlafsack für Ihre Bedürfnisse.</p><p class=\"mb-4\">Egal, ob Sie ein erfahrener Camper oder ein Neuling sind, wir haben das Richtige für Sie. Unsere Schlafsäcke sind so konzipiert, dass sie maximale Wärme und Schutz vor den Elementen bieten, damit Sie sich ganz auf Ihr Abenteuer konzentrieren können. Und mit unseren wettbewerbsfähigen Preisen und schnellem Versand können Sie sicher sein, dass Sie den besten Gegenwert für Ihr Geld bekommen.</p><p class=\"mb-4\">Worauf warten Sie also noch? Schauen Sie noch heute bei Schlafsack24.net vorbei und finden Sie den Schlafsack Ihrer Träume!</p>",
-    "index": {
-      "title": "Outdoor Schlafsack",
-      "metaDescription": "Kaufen Sie einen Schlafsack zum Best-Preis in unserem Online Shop für Schlafsäcke. Wir bieten alle Marken und Arten von Schlafsäcken. Produkte auf Lager.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Schlafsack24.net!",
-            "text": "Schlafsack24.net ist Ihr Online-Shop für alles, was Sie für eine erholsame Nacht benötigen. Wir bieten eine breite Auswahl an hochwertigen Schlafsäcken, Inletts, Kissen, Kunstfaserschlafsäcken, Daunenschlafsäcken, Decken und Biwaks. Ob Sie einen Schlafsack für den nächsten Campingausflug benötigen oder eine neue Decke für Ihr Zuhause suchen, bei uns werden Sie fündig. Unsere Produkte werden sorgfältig ausgewählt, um sicherzustellen, dass Sie die bestmögliche Qualität erhalten. Wir verwenden nur hochwertige Materialien und achten auf eine gute Verarbeitung, damit Sie lange Freude an unseren Produkten haben. Wir bieten Ihnen auch eine große Auswahl an verschiedenen Größen und Farben, damit Sie genau das finden, was zu Ihnen passt. Unsere Produktkategorien sind übersichtlich organisiert, damit Sie schnell und einfach zu dem finden, was Sie suchen. Zögern Sie nicht, uns zu kontaktieren, wenn Sie Fragen oder Anregungen haben. Unser Kundenservice steht Ihnen jederzeit zur Verfügung. Besuchen Sie uns jetzt auf Schlafsack24.net und entdecken Sie unsere große Auswahl an hochwertigen Schlafsäcken und Zubehör. Wir freuen uns auf Ihren Einkauf!"
-          },
-          {
-            "title": "Inletts",
-            "text": "<a href=\"/kategorie/inletts/\" title=\"Inletts\">Inletts</a> sind ein wichtiger Bestandteil eines bequemen und erholsamen Schlafs. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Inletts in verschiedenen Größen und Materialien. Von natürlichen Materialien wie Baumwolle und Seide bis hin zu modernen Faserstoffen, die eine hohe Atmungsaktivität und Feuchtigkeitsregulierung bieten. Wählen Sie das perfekte Inlett für Ihren Schlafsack aus und garantieren Sie sich eine angenehme Nachtruhe."
-          },
-          {
-            "title": "Kissen",
-            "text": "Ein gutes <a href=\"/kategorie/kissen/\" title=\"Kissen\">Kissen</a> ist ebenfalls entscheidend für eine erholsame Nachtruhe. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Kissen in verschiedenen Größen, Materialien und Härtegraden. Ob Sie es bevorzugen, Ihr Kopf auf einem weichen oder festen Kissen zu ruhen, wir haben das perfekte Kissen für Sie. Entdecken Sie jetzt unsere große Auswahl an Kissen und finden Sie das Kissen, das perfekt zu Ihnen passt."
-          },
-          {
-            "title": "Kunstfaserschlafsäcke",
-            "text": "<a href=\"/kategorie/kunstfaserschlafsaecke/\" title=\"Kunstfaserschlafsäcke\">Kunstfaserschlafsäcke</a> bieten eine hervorragende Wärmeisolation und sind besonders leicht und kompakt. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Kunstfaserschlafsäcken in verschiedenen Größen und Farben. Wählen Sie den perfekten Kunstfaserschlafsack für Ihre nächste Camping- oder Trekkingtour und garantieren Sie sich eine warme und bequeme Nachtruhe unter freiem Himmel."
-          },
-          {
-            "title": "Daunenschlafsäcke",
-            "text": "<a href=\"/kategorie/daunenschlafsaecke/\" title=\"Daunenschlafsäcke\">Daunenschlafsäcke</a> bieten eine hervorragende Wärmeisolation und sind besonders leicht und kompakt. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Daunenschlafsäcken in verschiedenen Größen und Farben. Wählen Sie den perfekten Daunenschlafsack für Ihre nächste Camping- oder Trekkingtour und garantieren Sie sich eine warme und bequeme Nachtruhe unter freiem Himmel."
-          },
-          {
-            "title": "Decken",
-            "text": "<a href=\"/kategorie/decken/\" title=\"Decken\">Decken</a> sind ein wichtiger Bestandteil eines bequemen und erholsamen Schlafs. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Decken in verschiedenen Größen und Materialien. Von natürlichen Materialien wie Baumwolle und Seide bis hin zu modernen Faserstoffen, die eine hohe Atmungsaktivität und Feuchtigkeitsregulierung bieten. Wählen Sie die perfekte Decke für Ihr Bett aus und garantieren Sie sich eine angenehme Nachtruhe."
-          },
-          {
-            "title": "Biwak",
-            "text": "<a href=\"/kategorie/biwak/\" title=\"Biwak\">Biwak</a>-Ausrüstung ist unerlässlich für alle, die das Abenteuer in der Natur lieben. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Biwak-Ausrüstung, einschließlich Schlafsäcken, Isomatten und Zeltzubehör. Wählen Sie die perfekte Ausrüstung für Ihr nächstes Biwak-Abenteuer und erleben Sie die Schönheit der Natur aus einer neuen Perspektive."
-          }
-        ]
-      }
-    },
-    "shop": {
-      "title": "Alle Schlafsäcke und Marken im Überblick.",
-      "metaDescription": "Shop für den qualitativ hochwertigen Schlafsack zu günstigen Preisen. Wir haben eine große Auswahl an Taschen und Ausrüstung von Top-Marken.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Alle Hersteller für Schlafsäcke im Überblick",
-      "metaDescription": "Ein Schlafsack ist so konzipiert, dass Sie warm und bequem halten sollen. Werfen Sie nun einen Blick auf unsere große Auswahl!",
-      "robots": "index, follow"
-    },
-    "faq": {
-      "title": "Häufig gestellte Fragen zum Thema Schlafsack",
-      "metaDescription": "Hier finden Sie Antworten auf die häufigsten Fragen zum Thema Schlafsäcke. Vor dem Kauf informieren und den richtigen Schlafsack kaufen.",
-      "robots": "index, follow",
-      "faqs": [
+    "configIsReady": true,
+    "domain": "schlafsack24.net",
+    "hostname": "https://www.schlafsack24.net",
+    "email": "schlafsack24.net@surrealnetworks.io",
+    "organization": "schlafsack24.net",
+    "logoText": "schlafsack24.net",
+    "title": "Schlafsack | Outdoor Camping Ausrüstung",
+    "subline": "Schlafsack | Sommerschlafsack, Winterschlafsack, Camping Schlafsack",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637456573",
+        "5637531405",
+        "5637829069"
+    ],
+    "winnerProducts": [
+        "5637974299",
+        "5637974309",
+        "5637522434"
+    ],
+    "featuredCategories": [
+        "Kunstfaserschlafsäcke",
+        "Daunenschlafsäcke",
+        "Inletts",
+        "Kissen",
+        "Decken",
+        "Biwak"
+    ],
+    "socialMediaAccounts": [
         {
-          "question": "Was ist ein Schlafsack?",
-          "answer": "Ein Schlafsack ist eine Art von Bettwäsche, die dazu dient, den Körper des Benutzers während des Schlafens warm zu halten. Er besteht aus isolierenden Materialien und ist in verschiedenen Größen und Formen erhältlich."
-        },
-        {
-          "question": "Welche Arten von Schlafsäcken gibt es?",
-          "answer": "Es gibt verschiedene Arten von Schlafsäcken, darunter Mumienschlafsäcke, Deckenschlafsäcke, Daunenschlafsäcke, Kunstfaserschlafsäcke, 3-Jahreszeiten-Schlafsäcke und Winterschlafsäcke."
-        },
-        {
-          "question": "Wie wählt man die richtige Größe für einen Schlafsack aus?",
-          "answer": "Daunenschlafsäcke sind in der Regel leichter und wärmer als Kunstfaserschlafsäcke. Sie sind jedoch auch teurer und können bei Feuchtigkeit an Wärmeleistung verlieren. Kunstfaserschlafsäcke sind dagegen günstiger und behalten ihre Wärmeleistung auch bei Nässe."
-        },
-        {
-          "question": "Was ist der Unterschied zwischen einem Daunen- und einem Kunstfaserschlafsack?",
-          "answer": "Daunenschlafsäcke sind in der Regel leichter und wärmer als Kunstfaserschlafsäcke. Sie sind jedoch auch teurer und können bei Feuchtigkeit an Wärmeleistung verlieren. Kunstfaserschlafsäcke sind dagegen günstiger und behalten ihre Wärmeleistung auch bei Nässe."
-        },
-        {
-          "question": "Wie pflegt man einen Schlafsack?",
-          "answer": "Es ist wichtig, einen Schlafsack nach jedem Gebrauch auszulüften und gelegentlich zu waschen. Wenn man ihn waschen muss, sollte man die Anweisungen des Herstellers befolgen. Es ist auch wichtig, den Schlafsack bei Lagerung trocken und nicht zu eng zusammengepackt aufzubewahren."
-        },
-        {
-          "question": "Kann man einen Schlafsack auch im Sommer verwenden?",
-          "answer": "Ja, es gibt auch Schlafsäcke, die speziell für den Einsatz im Sommer konzipiert sind. Diese sind in der Regel leichter und haben eine geringere Wärmeleistung als Schlafsäcke für kältere Temperaturen."
-        },
-        {
-          "question": "Kann man einen Schlafsack auch waschen?",
-          "answer": "Ja, in der Regel kann man einen Schlafsack waschen. Es ist jedoch wichtig, die Anweisungen des Herstellers zu befolgen, da manche Schlafsäcke spezielle Waschanforderungen haben, die beachtet werden müssen. Einige Schlafsäcke können nur in einer professionellen Reinigung gereinigt werden. Es ist auch wichtig, ein mildes Waschmittel zu verwenden und den Schlafsack bei niedriger Temperatur zu trocknen, um Schäden zu vermeiden."
-        },
-        {
-          "question": "Kann man einen Schlafsack auch als Decke verwenden?",
-          "answer": "Ja, es gibt Schlafsäcke, die sich öffnen lassen und als Decke verwendet werden können. Diese sind oft als 'Zipper' oder 'Zip together' Schlafsäcke bezeichnet."
-        },
-        {
-          "question": "Wie kann man einen Schlafsack aufrollen?",
-          "answer": "Um einen Schlafsack aufzurollen, legt man ihn flach auf den Boden und rollt ihn von einer Seite zur anderen. Danach kann man ihn in einem Packsack verstauen."
-        },
-        {
-          "question": "Wie warm sollte ein Schlafsack sein?",
-          "answer": "Die Wärmeleistung des Schlafsacks sollte der geplanten Umgebungstemperatur entsprechen. Für kalte Temperaturen sollte man einen Schlafsack mit einer höheren Wärmeleistung wählen. Es ist jedoch auch wichtig, nicht zu warm zu werden, da dies zu übermäßigem Schwitzen führen und den Schlafsack feucht machen kann."
-        },
-        {
-          "question": "Was ist eine Schlafsackhülle?",
-          "answer": "Eine Schlafsackhülle ist ein Schutzbezug für den Schlafsack, der ihn vor Schmutz und Feuchtigkeit schützt. Sie kann auch dazu beitragen, den Schlafsack länger haltbar zu machen."
-        },
-        {
-          "question": "Kann man einen Schlafsack auch mieten?",
-          "answer": "Ja, es ist möglich, einen Schlafsack zu mieten, insbesondere wenn man ihn nur für eine begrenzte Zeit benötigt oder nicht oft campen geht. Viele Outdoor-Ausrüstungsgeschäfte und Campingplätze bieten Schlafsackverleih an."
+            "name": "Twitter",
+            "link": "https://www.twitter.com/schlafsack24-net",
+            "iconClass": "fab fa-twitter",
+            "published": false
         }
-      ]
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Schlafsack Shop",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637824850",
-        "name": "Marmot FUCOSA -9 Daunenschlafsack",
-        "seo": {
-          "title": "Marmot FUCOSA -9 Daunenschlafsack kaufen | schlafsack24.net",
-          "metaDescription": "Marmot FUCOSA -9 Daunenschlafsack von Marmot in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie Daunenschlafsäcke.",
-          "robots": "index, follow",
-          "texts": [
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Schlafsack",
+        "featureText": "<p class=\"mb-4\">Sind Sie auf der Suche nach dem ultimativen Schlafsack für Ihr nächstes Abenteuer? Dann sind Sie bei Schlafsack24.net genau richtig! Wir bieten Ihnen eine große Auswahl an hochwertigen Schlafsäcken für alle Ihre Bedürfnisse, ob Sie nun in der freien Natur campen oder zu Hause faulenzen.</p><p class=\"mb-4\">Wir von Schlafsack24.net wissen, dass Komfort das A und O bei Schlafsäcken ist. Deshalb wählen wir sorgfältig die besten Produkte aus, damit Sie überall einen guten Schlaf genießen können. Mit unserer benutzerfreundlichen Website war es noch nie so einfach, den perfekten Schlafsack zu finden. Stöbern Sie einfach durch unsere Kategorien wie z.B. Daunenschlafsäcke, Inletts, Kunstfaserschlafsäcken und finden Sie den passenden Schlafsack für Ihre Bedürfnisse.</p><p class=\"mb-4\">Egal, ob Sie ein erfahrener Camper oder ein Neuling sind, wir haben das Richtige für Sie. Unsere Schlafsäcke sind so konzipiert, dass sie maximale Wärme und Schutz vor den Elementen bieten, damit Sie sich ganz auf Ihr Abenteuer konzentrieren können. Und mit unseren wettbewerbsfähigen Preisen und schnellem Versand können Sie sicher sein, dass Sie den besten Gegenwert für Ihr Geld bekommen.</p><p class=\"mb-4\">Worauf warten Sie also noch? Schauen Sie noch heute bei Schlafsack24.net vorbei und finden Sie den Schlafsack Ihrer Träume!</p>",
+        "index": {
+            "title": "Outdoor Schlafsack",
+            "metaDescription": "Kaufen Sie einen Schlafsack zum Best-Preis in unserem Online Shop für Schlafsäcke. Wir bieten alle Marken und Arten von Schlafsäcken. Produkte auf Lager.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Schlafsack24.net!",
+                        "text": "Schlafsack24.net ist Ihr Online-Shop für alles, was Sie für eine erholsame Nacht benötigen. Wir bieten eine breite Auswahl an hochwertigen Schlafsäcken, Inletts, Kissen, Kunstfaserschlafsäcken, Daunenschlafsäcken, Decken und Biwaks. Ob Sie einen Schlafsack für den nächsten Campingausflug benötigen oder eine neue Decke für Ihr Zuhause suchen, bei uns werden Sie fündig. Unsere Produkte werden sorgfältig ausgewählt, um sicherzustellen, dass Sie die bestmögliche Qualität erhalten. Wir verwenden nur hochwertige Materialien und achten auf eine gute Verarbeitung, damit Sie lange Freude an unseren Produkten haben. Wir bieten Ihnen auch eine große Auswahl an verschiedenen Größen und Farben, damit Sie genau das finden, was zu Ihnen passt. Unsere Produktkategorien sind übersichtlich organisiert, damit Sie schnell und einfach zu dem finden, was Sie suchen. Zögern Sie nicht, uns zu kontaktieren, wenn Sie Fragen oder Anregungen haben. Unser Kundenservice steht Ihnen jederzeit zur Verfügung. Besuchen Sie uns jetzt auf Schlafsack24.net und entdecken Sie unsere große Auswahl an hochwertigen Schlafsäcken und Zubehör. Wir freuen uns auf Ihren Einkauf!"
+                    },
+                    {
+                        "title": "Inletts",
+                        "text": "<a href=\"/kategorie/inletts/\" title=\"Inletts\">Inletts</a> sind ein wichtiger Bestandteil eines bequemen und erholsamen Schlafs. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Inletts in verschiedenen Größen und Materialien. Von natürlichen Materialien wie Baumwolle und Seide bis hin zu modernen Faserstoffen, die eine hohe Atmungsaktivität und Feuchtigkeitsregulierung bieten. Wählen Sie das perfekte Inlett für Ihren Schlafsack aus und garantieren Sie sich eine angenehme Nachtruhe."
+                    },
+                    {
+                        "title": "Kissen",
+                        "text": "Ein gutes <a href=\"/kategorie/kissen/\" title=\"Kissen\">Kissen</a> ist ebenfalls entscheidend für eine erholsame Nachtruhe. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Kissen in verschiedenen Größen, Materialien und Härtegraden. Ob Sie es bevorzugen, Ihr Kopf auf einem weichen oder festen Kissen zu ruhen, wir haben das perfekte Kissen für Sie. Entdecken Sie jetzt unsere große Auswahl an Kissen und finden Sie das Kissen, das perfekt zu Ihnen passt."
+                    },
+                    {
+                        "title": "Kunstfaserschlafsäcke",
+                        "text": "<a href=\"/kategorie/kunstfaserschlafsaecke/\" title=\"Kunstfaserschlafsäcke\">Kunstfaserschlafsäcke</a> bieten eine hervorragende Wärmeisolation und sind besonders leicht und kompakt. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Kunstfaserschlafsäcken in verschiedenen Größen und Farben. Wählen Sie den perfekten Kunstfaserschlafsack für Ihre nächste Camping- oder Trekkingtour und garantieren Sie sich eine warme und bequeme Nachtruhe unter freiem Himmel."
+                    },
+                    {
+                        "title": "Daunenschlafsäcke",
+                        "text": "<a href=\"/kategorie/daunenschlafsaecke/\" title=\"Daunenschlafsäcke\">Daunenschlafsäcke</a> bieten eine hervorragende Wärmeisolation und sind besonders leicht und kompakt. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Daunenschlafsäcken in verschiedenen Größen und Farben. Wählen Sie den perfekten Daunenschlafsack für Ihre nächste Camping- oder Trekkingtour und garantieren Sie sich eine warme und bequeme Nachtruhe unter freiem Himmel."
+                    },
+                    {
+                        "title": "Decken",
+                        "text": "<a href=\"/kategorie/decken/\" title=\"Decken\">Decken</a> sind ein wichtiger Bestandteil eines bequemen und erholsamen Schlafs. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Decken in verschiedenen Größen und Materialien. Von natürlichen Materialien wie Baumwolle und Seide bis hin zu modernen Faserstoffen, die eine hohe Atmungsaktivität und Feuchtigkeitsregulierung bieten. Wählen Sie die perfekte Decke für Ihr Bett aus und garantieren Sie sich eine angenehme Nachtruhe."
+                    },
+                    {
+                        "title": "Biwak",
+                        "text": "<a href=\"/kategorie/biwak/\" title=\"Biwak\">Biwak</a>-Ausrüstung ist unerlässlich für alle, die das Abenteuer in der Natur lieben. In unserem Online-Shop Schlafsack24.net finden Sie eine große Auswahl an Biwak-Ausrüstung, einschließlich Schlafsäcken, Isomatten und Zeltzubehör. Wählen Sie die perfekte Ausrüstung für Ihr nächstes Biwak-Abenteuer und erleben Sie die Schönheit der Natur aus einer neuen Perspektive."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Alle Schlafsäcke und Marken im Überblick.",
+            "metaDescription": "Shop für den qualitativ hochwertigen Schlafsack zu günstigen Preisen. Wir haben eine große Auswahl an Taschen und Ausrüstung von Top-Marken.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Hersteller für Schlafsäcke im Überblick",
+            "metaDescription": "Ein Schlafsack ist so konzipiert, dass Sie warm und bequem halten sollen. Werfen Sie nun einen Blick auf unsere große Auswahl!",
+            "robots": "index, follow"
+        },
+        "faq": {
+            "title": "Häufig gestellte Fragen zum Thema Schlafsack",
+            "metaDescription": "Hier finden Sie Antworten auf die häufigsten Fragen zum Thema Schlafsäcke. Vor dem Kauf informieren und den richtigen Schlafsack kaufen.",
+            "robots": "index, follow",
+            "faqs": [
+                {
+                    "question": "Was ist ein Schlafsack?",
+                    "answer": "Ein Schlafsack ist eine Art von Bettwäsche, die dazu dient, den Körper des Benutzers während des Schlafens warm zu halten. Er besteht aus isolierenden Materialien und ist in verschiedenen Größen und Formen erhältlich."
+                },
+                {
+                    "question": "Welche Arten von Schlafsäcken gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Schlafsäcken, darunter Mumienschlafsäcke, Deckenschlafsäcke, Daunenschlafsäcke, Kunstfaserschlafsäcke, 3-Jahreszeiten-Schlafsäcke und Winterschlafsäcke."
+                },
+                {
+                    "question": "Wie wählt man die richtige Größe für einen Schlafsack aus?",
+                    "answer": "Daunenschlafsäcke sind in der Regel leichter und wärmer als Kunstfaserschlafsäcke. Sie sind jedoch auch teurer und können bei Feuchtigkeit an Wärmeleistung verlieren. Kunstfaserschlafsäcke sind dagegen günstiger und behalten ihre Wärmeleistung auch bei Nässe."
+                },
+                {
+                    "question": "Was ist der Unterschied zwischen einem Daunen- und einem Kunstfaserschlafsack?",
+                    "answer": "Daunenschlafsäcke sind in der Regel leichter und wärmer als Kunstfaserschlafsäcke. Sie sind jedoch auch teurer und können bei Feuchtigkeit an Wärmeleistung verlieren. Kunstfaserschlafsäcke sind dagegen günstiger und behalten ihre Wärmeleistung auch bei Nässe."
+                },
+                {
+                    "question": "Wie pflegt man einen Schlafsack?",
+                    "answer": "Es ist wichtig, einen Schlafsack nach jedem Gebrauch auszulüften und gelegentlich zu waschen. Wenn man ihn waschen muss, sollte man die Anweisungen des Herstellers befolgen. Es ist auch wichtig, den Schlafsack bei Lagerung trocken und nicht zu eng zusammengepackt aufzubewahren."
+                },
+                {
+                    "question": "Kann man einen Schlafsack auch im Sommer verwenden?",
+                    "answer": "Ja, es gibt auch Schlafsäcke, die speziell für den Einsatz im Sommer konzipiert sind. Diese sind in der Regel leichter und haben eine geringere Wärmeleistung als Schlafsäcke für kältere Temperaturen."
+                },
+                {
+                    "question": "Kann man einen Schlafsack auch waschen?",
+                    "answer": "Ja, in der Regel kann man einen Schlafsack waschen. Es ist jedoch wichtig, die Anweisungen des Herstellers zu befolgen, da manche Schlafsäcke spezielle Waschanforderungen haben, die beachtet werden müssen. Einige Schlafsäcke können nur in einer professionellen Reinigung gereinigt werden. Es ist auch wichtig, ein mildes Waschmittel zu verwenden und den Schlafsack bei niedriger Temperatur zu trocknen, um Schäden zu vermeiden."
+                },
+                {
+                    "question": "Kann man einen Schlafsack auch als Decke verwenden?",
+                    "answer": "Ja, es gibt Schlafsäcke, die sich öffnen lassen und als Decke verwendet werden können. Diese sind oft als 'Zipper' oder 'Zip together' Schlafsäcke bezeichnet."
+                },
+                {
+                    "question": "Wie kann man einen Schlafsack aufrollen?",
+                    "answer": "Um einen Schlafsack aufzurollen, legt man ihn flach auf den Boden und rollt ihn von einer Seite zur anderen. Danach kann man ihn in einem Packsack verstauen."
+                },
+                {
+                    "question": "Wie warm sollte ein Schlafsack sein?",
+                    "answer": "Die Wärmeleistung des Schlafsacks sollte der geplanten Umgebungstemperatur entsprechen. Für kalte Temperaturen sollte man einen Schlafsack mit einer höheren Wärmeleistung wählen. Es ist jedoch auch wichtig, nicht zu warm zu werden, da dies zu übermäßigem Schwitzen führen und den Schlafsack feucht machen kann."
+                },
+                {
+                    "question": "Was ist eine Schlafsackhülle?",
+                    "answer": "Eine Schlafsackhülle ist ein Schutzbezug für den Schlafsack, der ihn vor Schmutz und Feuchtigkeit schützt. Sie kann auch dazu beitragen, den Schlafsack länger haltbar zu machen."
+                },
+                {
+                    "question": "Kann man einen Schlafsack auch mieten?",
+                    "answer": "Ja, es ist möglich, einen Schlafsack zu mieten, insbesondere wenn man ihn nur für eine begrenzte Zeit benötigt oder nicht oft campen geht. Viele Outdoor-Ausrüstungsgeschäfte und Campingplätze bieten Schlafsackverleih an."
+                }
+            ]
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Schlafsack Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Produkt-Beschreibung:",
-              "text": "Der Marmot Fucosa ist ein Premium-Qualitätsschlafsack, der für Outdoor-Enthusiasten und Abenteurer entwickelt wurde. Dieser Schlafsack ist mit der firmeneigenen Thermal R-Isolierung von Marmot ausgestattet, die für überragende Wärme und Komfort bei kalten Temperaturen sorgt. Der Fucosa hat eine Mumienform, die den Wärmeverlust reduziert und das Eindringen von kalter Luft in den Schlafsack verhindert. Die Tasche ist außerdem mit einem durchgehenden Zwei-Wege-Reißverschluss ausgestattet, der den Ein- und Ausstieg sowie die Temperaturregulierung erleichtert. Kapuze, Nacken- und Fußteil sind für eine individuelle Passform verstellbar, und der Innenraum ist mit weichem, bequemem Stoff gefüttert. Die Fucosa ist in drei Größen erhältlich und eignet sich mit einem flexiblenTemperaturbereich ideal für Camping, Rucksacktouren und andere Outdoor-Aktivitäten."
+                "sku": "5637824850",
+                "name": "Marmot FUCOSA -9 Daunenschlafsack",
+                "seo": {
+                    "title": "Marmot FUCOSA -9 Daunenschlafsack kaufen | schlafsack24.net",
+                    "metaDescription": "Marmot FUCOSA -9 Daunenschlafsack von Marmot in unserem Schlafsack-Shop günstig bestellen. Sowie mehr Schlafsäcke aus der Kategorie Daunenschlafsäcke.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Produkt-Beschreibung:",
+                            "text": "Der Marmot Fucosa ist ein Premium-Qualitätsschlafsack, der für Outdoor-Enthusiasten und Abenteurer entwickelt wurde. Dieser Schlafsack ist mit der firmeneigenen Thermal R-Isolierung von Marmot ausgestattet, die für überragende Wärme und Komfort bei kalten Temperaturen sorgt. Der Fucosa hat eine Mumienform, die den Wärmeverlust reduziert und das Eindringen von kalter Luft in den Schlafsack verhindert. Die Tasche ist außerdem mit einem durchgehenden Zwei-Wege-Reißverschluss ausgestattet, der den Ein- und Ausstieg sowie die Temperaturregulierung erleichtert. Kapuze, Nacken- und Fußteil sind für eine individuelle Passform verstellbar, und der Innenraum ist mit weichem, bequemem Stoff gefüttert. Die Fucosa ist in drei Größen erhältlich und eignet sich mit einem flexiblenTemperaturbereich ideal für Camping, Rucksacktouren und andere Outdoor-Aktivitäten."
+                        },
+                        {
+                            "title": "Produkt-Review:",
+                            "text": "Ich habe den Marmot Fucosa Schlafsack vor kurzem für eine Rucksacktour gekauft und ich könnte nicht zufriedener mit meinem Kauf sein. Der Schlafsack ist gut konstruiert und die Thermal R Isolierung ist erstklassig. Selbst in kalten Nächten war ich warm und gemütlich. Die Mumienform ist großartig, um die Wärme zu maximieren, und die verstellbare Kapuze, der Nacken- und der Fußbereich sind praktische Funktionen. Ich schätze besonders den durchgehenden Zwei-Wege-Reißverschluss, der das Ein- und Aussteigen und die Temperaturregulierung erleichtert. Ich würde den Marmot Fucosa jedem empfehlen, der einen hochwertigen, warmen und bequemen Schlafsack sucht."
+                        }
+                    ]
+                }
             },
             {
-              "title": "Produkt-Review:",
-              "text": "Ich habe den Marmot Fucosa Schlafsack vor kurzem für eine Rucksacktour gekauft und ich könnte nicht zufriedener mit meinem Kauf sein. Der Schlafsack ist gut konstruiert und die Thermal R Isolierung ist erstklassig. Selbst in kalten Nächten war ich warm und gemütlich. Die Mumienform ist großartig, um die Wärme zu maximieren, und die verstellbare Kapuze, der Nacken- und der Fußbereich sind praktische Funktionen. Ich schätze besonders den durchgehenden Zwei-Wege-Reißverschluss, der das Ein- und Aussteigen und die Temperaturregulierung erleichtert. Ich würde den Marmot Fucosa jedem empfehlen, der einen hochwertigen, warmen und bequemen Schlafsack sucht."
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637974299",
-        "seo": {
-          "texts": [
+                "sku": "5637974299",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Western Mountaineering TERRALITE 180 CM Daunenschlafsack",
+                            "text": "<p class=\"justify\">Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist ein hochwertiges Produkt der Marke Western Mountaineering, das ideal für Outdoor-Enthusiasten und Camper geeignet ist. Mit einer Länge von 180 cm bietet dieser Schlafsack genügend Platz und Komfort für eine erholsame Nacht in der Natur. Hergestellt aus qualitativ hochwertigen Materialien, garantiert der Schlafsack seinen Nutzern Langlebigkeit und hervorragende Wärmeleistung.</p><p class=\"justify\">Dieser Daunenschlafsack gehört zur Kategorie Ausrüstung und ist speziell für Schlafsäcke und Daunenschlafsäcke konzipiert. Die TERRALITE 180 CM-Serie ist bekannt für ihre exzellente Qualität und ihr ansprechendes Design. Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist in der Farbe 180 cm erhältlich, was ihn zu einem stilvollen und praktischen Begleiter für Ihre Outdoor-Abenteuer macht.</p><p class=\"justify\">Der Preis von 559,99 Euro spiegelt die hohe Qualität und die hervorragenden Eigenschaften des Western Mountaineering TERRALITE 180 CM Daunenschlafsacks wider. Mit 210 Bewertungen und 4 von 5 Sternen hat dieser Schlafsack bereits viele zufriedene Kunden überzeugt. Die hohen Bewertungen zeigen die Zufriedenheit der Kunden und das Vertrauen in das Produkt.</p><p class=\"justify\">Zusammenfassend ist der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ein ausgezeichnetes Produkt für alle, die auf der Suche nach einem hochwertigen und zuverlässigen Schlafsack sind. Mit seiner erstklassigen Qualität, beeindruckenden Wärmeleistung und ansprechendem Design wird er sicherlich die Erwartungen der Outdoor-Enthusiasten erfüllen und übertreffen. Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist ein Must-Have für Ihr nächstes Abenteuer!</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "Western Mountaineering TERRALITE 180 CM Daunenschlafsack",
-              "text": "<p class=\"justify\">Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist ein hochwertiges Produkt der Marke Western Mountaineering, das ideal für Outdoor-Enthusiasten und Camper geeignet ist. Mit einer Länge von 180 cm bietet dieser Schlafsack genügend Platz und Komfort für eine erholsame Nacht in der Natur. Hergestellt aus qualitativ hochwertigen Materialien, garantiert der Schlafsack seinen Nutzern Langlebigkeit und hervorragende Wärmeleistung.</p><p class=\"justify\">Dieser Daunenschlafsack gehört zur Kategorie Ausrüstung und ist speziell für Schlafsäcke und Daunenschlafsäcke konzipiert. Die TERRALITE 180 CM-Serie ist bekannt für ihre exzellente Qualität und ihr ansprechendes Design. Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist in der Farbe 180 cm erhältlich, was ihn zu einem stilvollen und praktischen Begleiter für Ihre Outdoor-Abenteuer macht.</p><p class=\"justify\">Der Preis von 559,99 Euro spiegelt die hohe Qualität und die hervorragenden Eigenschaften des Western Mountaineering TERRALITE 180 CM Daunenschlafsacks wider. Mit 210 Bewertungen und 4 von 5 Sternen hat dieser Schlafsack bereits viele zufriedene Kunden überzeugt. Die hohen Bewertungen zeigen die Zufriedenheit der Kunden und das Vertrauen in das Produkt.</p><p class=\"justify\">Zusammenfassend ist der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ein ausgezeichnetes Produkt für alle, die auf der Suche nach einem hochwertigen und zuverlässigen Schlafsack sind. Mit seiner erstklassigen Qualität, beeindruckenden Wärmeleistung und ansprechendem Design wird er sicherlich die Erwartungen der Outdoor-Enthusiasten erfüllen und übertreffen. Der Western Mountaineering TERRALITE 180 CM Daunenschlafsack ist ein Must-Have für Ihr nächstes Abenteuer!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637974309",
-        "seo": {
-          "texts": [
+                "sku": "5637974309",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack",
+                            "text": "<p class=\"justify\">Der Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack ist ein hochwertiger Daunenschlafsack der renommierten Marke Western Mountaineering. Er wurde speziell für anspruchsvolle Wintersportler und Outdoor-Enthusiasten entwickelt, die Wert auf Qualität, Komfort und Wärmeleistung legen. Mit einer Länge von 200 cm eignet sich dieser Schlafsack hervorragend für Personen mit einer größeren Körpergröße.</p><p class=\"justify\">In der Kategorie Ausrüstung gehört der Western Mountaineering ANTELOPE GWS 200 CM zu den hochwertigen Schlafsäcken, die sich durch eine erstklassige Verarbeitung und langlebige Materialien auszeichnen. Die Daunenfüllung sorgt für eine optimale Isolierung und hält auch bei extremen Wetterbedingungen angenehm warm. Das widerstandsfähige GWS (Gore Windstopper) Außenmaterial ist darüber hinaus winddicht und wasserabweisend und schützt somit ideal vor den Elementen.</p><p class=\"justify\">Mit 358 Bewertungen und 4 Sternen zählt der Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack zu den beliebten Produkten in seinem Segment. Nutzer schätzen insbesondere den hohen Komfort und die erstklassige Qualität dieses Schlafsacks. Dabei überzeugt er nicht nur durch seine Funktionalität, sondern auch durch seine ansprechende Optik in der Farbe 200 cm.</p><p class=\"justify\">Wer auf der Suche nach einem zuverlässigen und komfortablen Winterschlafsack ist, trifft mit dem Western Mountaineering ANTELOPE GWS 200 CM eine ausgezeichnete Wahl. Dieser Schlafsack bietet nicht nur eine hervorragende Wärmeleistung, sondern auch ein ansprechendes Design und beste Qualität. Er ist die ideale Ergänzung für Ihre Outdoor-Ausrüstung und gewährleistet einen erholsamen Schlaf bei Ihren Winterabenteuern. Lassen Sie sich von der Performance dieses Schlafsacks überzeugen und profitieren Sie von Komfort und Wärme selbst bei anspruchsvollen Bedingungen.</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack",
-              "text": "<p class=\"justify\">Der Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack ist ein hochwertiger Daunenschlafsack der renommierten Marke Western Mountaineering. Er wurde speziell für anspruchsvolle Wintersportler und Outdoor-Enthusiasten entwickelt, die Wert auf Qualität, Komfort und Wärmeleistung legen. Mit einer Länge von 200 cm eignet sich dieser Schlafsack hervorragend für Personen mit einer größeren Körpergröße.</p><p class=\"justify\">In der Kategorie Ausrüstung gehört der Western Mountaineering ANTELOPE GWS 200 CM zu den hochwertigen Schlafsäcken, die sich durch eine erstklassige Verarbeitung und langlebige Materialien auszeichnen. Die Daunenfüllung sorgt für eine optimale Isolierung und hält auch bei extremen Wetterbedingungen angenehm warm. Das widerstandsfähige GWS (Gore Windstopper) Außenmaterial ist darüber hinaus winddicht und wasserabweisend und schützt somit ideal vor den Elementen.</p><p class=\"justify\">Mit 358 Bewertungen und 4 Sternen zählt der Western Mountaineering ANTELOPE GWS 200 CM Winterschlafsack zu den beliebten Produkten in seinem Segment. Nutzer schätzen insbesondere den hohen Komfort und die erstklassige Qualität dieses Schlafsacks. Dabei überzeugt er nicht nur durch seine Funktionalität, sondern auch durch seine ansprechende Optik in der Farbe 200 cm.</p><p class=\"justify\">Wer auf der Suche nach einem zuverlässigen und komfortablen Winterschlafsack ist, trifft mit dem Western Mountaineering ANTELOPE GWS 200 CM eine ausgezeichnete Wahl. Dieser Schlafsack bietet nicht nur eine hervorragende Wärmeleistung, sondern auch ein ansprechendes Design und beste Qualität. Er ist die ideale Ergänzung für Ihre Outdoor-Ausrüstung und gewährleistet einen erholsamen Schlaf bei Ihren Winterabenteuern. Lassen Sie sich von der Performance dieses Schlafsacks überzeugen und profitieren Sie von Komfort und Wärme selbst bei anspruchsvollen Bedingungen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637522434",
-        "seo": {
-          "texts": [
+                "sku": "5637522434",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Fjällräven ABISKO THREE SEASONS REG Kunstfaserschlafsack in Atlantic Blue",
+                            "text": "<p class=\"justify\">Der Fjällräven ABISKO THREE SEASONS REG ist ein hochwertiger Kunstfaserschlafsack, der perfekt für unterschiedliche Wetterbedingungen und Jahreszeiten geeignet ist. Dank seiner hochwertigen Verarbeitung und des intelligenten Designs ist dieser Schlafsack ein idealer Begleiter für alle Outdoor-Enthusiasten.</p><p class=\"justify\">In der attraktiven Farbe Atlantic Blue ist dieser Kunstfaserschlafsack nicht nur optisch ansprechend, sondern auch funktional. Er gehört zur Kategorie der ABISKO THREE SEASONS REG Schlafsäcke, die sich durch ihre Vielseitigkeit und Langlebigkeit auszeichnen. Sie sind besonders für den Einsatz in den Übergangszeiten - Frühling, Sommer und Herbst - geeignet. Damit bietet der Fjällräven ABISKO THREE SEASONS REG einen hohen Schlafkomfort in unterschiedlichen Klimazonen und Temperaturen.</p><p class=\"justify\">Mit der SKU 5637522434 ist dieser Schlafsack ein unverzichtbares Accessoire für alle, die gerne in der freien Natur unterwegs sind. Er gehört zur Ausrüstungskategorie Schlafsäcke und insbesondere zu den Kunstfaserschlafsäcken von Fjällräven. Seine erstklassige Verarbeitung und die Verwendung von hochwertigen Materialien sorgen für eine lange Lebensdauer und unvergleichlichen Schlafkomfort.</p><p class=\"justify\">Der Fjällräven ABISKO THREE SEASONS REG Kunstfaserschlafsack hat bereits eine Vielzahl von positiven Bewertungen und 5 Sterne erhalten, was seine Qualität und Funktionalität unterstreicht. Seine überzeugenden Eigenschaften machen ihn zu einem Must-Have für jeden, der Abenteuer und Freiheit in der Natur sucht.</p><p class=\"justify\">In der Kategorie ABISKO THREE SEASONS REG finden Sie weitere Schlafsäcke von Fjällräven, die ebenso wie der Fjällräven ABISKO THREE SEASONS REG Atlantic Blue Kunstfaserschlafsack hohe Qualitätsstandards erfüllen. Sichern Sie sich den perfekten Schlafsack für jede Jahreszeit und genießen Sie erholsame Nächte in der freien Natur.</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "Fjällräven ABISKO THREE SEASONS REG Kunstfaserschlafsack in Atlantic Blue",
-              "text": "<p class=\"justify\">Der Fjällräven ABISKO THREE SEASONS REG ist ein hochwertiger Kunstfaserschlafsack, der perfekt für unterschiedliche Wetterbedingungen und Jahreszeiten geeignet ist. Dank seiner hochwertigen Verarbeitung und des intelligenten Designs ist dieser Schlafsack ein idealer Begleiter für alle Outdoor-Enthusiasten.</p><p class=\"justify\">In der attraktiven Farbe Atlantic Blue ist dieser Kunstfaserschlafsack nicht nur optisch ansprechend, sondern auch funktional. Er gehört zur Kategorie der ABISKO THREE SEASONS REG Schlafsäcke, die sich durch ihre Vielseitigkeit und Langlebigkeit auszeichnen. Sie sind besonders für den Einsatz in den Übergangszeiten - Frühling, Sommer und Herbst - geeignet. Damit bietet der Fjällräven ABISKO THREE SEASONS REG einen hohen Schlafkomfort in unterschiedlichen Klimazonen und Temperaturen.</p><p class=\"justify\">Mit der SKU 5637522434 ist dieser Schlafsack ein unverzichtbares Accessoire für alle, die gerne in der freien Natur unterwegs sind. Er gehört zur Ausrüstungskategorie Schlafsäcke und insbesondere zu den Kunstfaserschlafsäcken von Fjällräven. Seine erstklassige Verarbeitung und die Verwendung von hochwertigen Materialien sorgen für eine lange Lebensdauer und unvergleichlichen Schlafkomfort.</p><p class=\"justify\">Der Fjällräven ABISKO THREE SEASONS REG Kunstfaserschlafsack hat bereits eine Vielzahl von positiven Bewertungen und 5 Sterne erhalten, was seine Qualität und Funktionalität unterstreicht. Seine überzeugenden Eigenschaften machen ihn zu einem Must-Have für jeden, der Abenteuer und Freiheit in der Natur sucht.</p><p class=\"justify\">In der Kategorie ABISKO THREE SEASONS REG finden Sie weitere Schlafsäcke von Fjällräven, die ebenso wie der Fjällräven ABISKO THREE SEASONS REG Atlantic Blue Kunstfaserschlafsack hohe Qualitätsstandards erfüllen. Sichern Sie sich den perfekten Schlafsack für jede Jahreszeit und genießen Sie erholsame Nächte in der freien Natur.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637661633",
-        "seo": {
-          "texts": [
+                "sku": "5637661633",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "FRILUFTS BALTA 3 Daunenschlafsack: Komfort und Qualität",
+                            "text": "<p class=\"justify\">Der FRILUFTS BALTA 3 Daunenschlafsack ist das ideale Produkt für alle, die Wert auf hohen Schlafkomfort und Qualität legen. Dieser hochwertige Daunenschlafsack der Marke FRILUFTS besticht durch seine hervorragende Verarbeitung und das ansprechende Design in den Farben caviar/mosaic blue. Mit der SKU 5637661633 ist dieser Schlafsack ein absolutes Must-have für jeden Outdoor-Enthusiasten.</p><p class=\"justify\">Egal ob beim Camping, Trekking oder einem gemütlichen Wochenende in einer Berghütte – der FRILUFTS BALTA 3 Daunenschlafsack sorgt stets für warme und kuschelige Nächte. Die hochwertige Daunenfüllung gewährleistet beste Isolationswerte und hält auch bei niedrigen Temperaturen angenehm warm. Der weiche Innenbezug sorgt zusätzlich für ein wohliges Schlafgefühl. Dank der großzügigen Abmessungen ist ausreichend Platz für eine erholsame Nachtruhe garantiert.</p><p class=\"justify\">Mit über 453 Bewertungen und einer durchschnittlichen Kundenbewertung von 5 Sternen hat sich der FRILUFTS BALTA 3 Daunenschlafsack als eine der besten Optionen in der Kategorie Daunenschlafsäcke etabliert. Die hohe Kundenzufriedenheit beweist, dass dieses Produkt sowohl in Bezug auf Qualität als auch in puncto Komfort überzeugt.</p><p class=\"justify\">Die Produktpalette von FRILUFTS umfasst verschiedene Kategorien wie Ausrüstung, Schlafsäcke und Daunenschlafsäcke – somit findet jeder Outdoor-Fan das passende Equipment. Der BALTA 3 Daunenschlafsack gehört dabei zu der besonders beliebten BALTA Serie des Unternehmens. Dieser Daunenschlafsack ist eine erstklassige Wahl für jeden, der auf der Suche nach einem zuverlässigen und qualitativ hochwertigen Produkt ist.</p><p class=\"justify\">Mit einem Preis von 289,95 Euro ist der FRILUFTS BALTA 3 Daunenschlafsack eine lohnenswerte Investition in komfortable Nächte bei Abenteuern im Freien. Sichere dir jetzt deinen eigenen FRILUFTS BALTA 3 Daunenschlafsack und erlebe unvergessliche und erholsame Outdoor-Erlebnisse.</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "FRILUFTS BALTA 3 Daunenschlafsack: Komfort und Qualität",
-              "text": "<p class=\"justify\">Der FRILUFTS BALTA 3 Daunenschlafsack ist das ideale Produkt für alle, die Wert auf hohen Schlafkomfort und Qualität legen. Dieser hochwertige Daunenschlafsack der Marke FRILUFTS besticht durch seine hervorragende Verarbeitung und das ansprechende Design in den Farben caviar/mosaic blue. Mit der SKU 5637661633 ist dieser Schlafsack ein absolutes Must-have für jeden Outdoor-Enthusiasten.</p><p class=\"justify\">Egal ob beim Camping, Trekking oder einem gemütlichen Wochenende in einer Berghütte – der FRILUFTS BALTA 3 Daunenschlafsack sorgt stets für warme und kuschelige Nächte. Die hochwertige Daunenfüllung gewährleistet beste Isolationswerte und hält auch bei niedrigen Temperaturen angenehm warm. Der weiche Innenbezug sorgt zusätzlich für ein wohliges Schlafgefühl. Dank der großzügigen Abmessungen ist ausreichend Platz für eine erholsame Nachtruhe garantiert.</p><p class=\"justify\">Mit über 453 Bewertungen und einer durchschnittlichen Kundenbewertung von 5 Sternen hat sich der FRILUFTS BALTA 3 Daunenschlafsack als eine der besten Optionen in der Kategorie Daunenschlafsäcke etabliert. Die hohe Kundenzufriedenheit beweist, dass dieses Produkt sowohl in Bezug auf Qualität als auch in puncto Komfort überzeugt.</p><p class=\"justify\">Die Produktpalette von FRILUFTS umfasst verschiedene Kategorien wie Ausrüstung, Schlafsäcke und Daunenschlafsäcke – somit findet jeder Outdoor-Fan das passende Equipment. Der BALTA 3 Daunenschlafsack gehört dabei zu der besonders beliebten BALTA Serie des Unternehmens. Dieser Daunenschlafsack ist eine erstklassige Wahl für jeden, der auf der Suche nach einem zuverlässigen und qualitativ hochwertigen Produkt ist.</p><p class=\"justify\">Mit einem Preis von 289,95 Euro ist der FRILUFTS BALTA 3 Daunenschlafsack eine lohnenswerte Investition in komfortable Nächte bei Abenteuern im Freien. Sichere dir jetzt deinen eigenen FRILUFTS BALTA 3 Daunenschlafsack und erlebe unvergessliche und erholsame Outdoor-Erlebnisse.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637824845",
-        "seo": {
-          "texts": [
+                "sku": "5637824845",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Marmot FUCOSA -1 Daunenschlafsack - Ideal für Outdoor-Enthusiasten",
+                            "text": "<p class=\"justify\">Der Marmot FUCOSA -1 Daunenschlafsack ist das perfekte Outdoor-Accessoire für alle, die auf der Suche nach hohem Komfort, optimaler Wärmeleistung und bester Qualität sind. Diese Marmot-Produkt ist in der ansprechenden Farbkombination Surf/Tomato erhältlich und überzeugt durch sein einzigartiges Design und hohe Funktionalität.</p><p class=\"justify\">Der Daunenschlafsack gehört zur Kategorie der Ausrüstung und ist speziell auf die Bedürfnisse von Schlafsacknutzern zugeschnitten, die sich gerne im Freien aufhalten und auf beständige Wärme angewiesen sind. Die Füllung aus hochwertigen Daunen sorgt dafür, dass der Schlafsack besonders leicht und dennoch warm ist. Mit einer Temperaturgrenze von -1 Grad Celsius eignet sich der Marmot FUCOSA -1 besonders für Frühling, Sommer und Herbst.</p><p class=\"justify\">Das renommierte Unternehmen Marmot legt bei der Entwicklung und Produktion seiner Produkte stets großen Wert auf Qualität. So auch beim FUCOSA -1 Daunenschlafsack. Durch die Verwendung bester Materialien ist die Langlebigkeit und Robustheit des Schlafsacks gewährleistet. Dieser Schlafsack eignet sich daher ideal für Outdoor-Aktivitäten wie Wandern, Trekking oder Camping.</p><p class=\"justify\">Neben dem ansprechenden Design und der hervorragenden Qualität hat der Marmot FUCOSA -1 Daunenschlafsack auch in puncto Benutzerfreundlichkeit einiges zu bieten. Der Schlafsack ist in verschiedenen Größen erhältlich und lässt sich dank seines geringen Packmaßes und Gewichts leicht transportieren. Mit einem Preis von 259,95 Euro ist der Schlafsack eine wertvolle Investition in eine beständige und hochwertige Outdoor-Ausrüstung.</p><p class=\"justify\">Der Marmot FUCOSA -1 Daunenschlafsack hat bei seiner bisherigen Kundschaft bereits viele positive Bewertungen erhalten und insgesamt 4 von 5 möglichen Sternen erzielt. Damit zählt das Produkt zu den hoch geschätzten Outdoor-Ausrüstungsgegenständen, die sowohl in puncto Qualität als auch in Sachen Funktion und Design überzeugen können. Wer also auf der Suche nach einem zuverlässigen und langlebigen Daunenschlafsack ist, sollte sich den Marmot FUCOSA -1 einmal genauer ansehen.</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "Marmot FUCOSA -1 Daunenschlafsack - Ideal für Outdoor-Enthusiasten",
-              "text": "<p class=\"justify\">Der Marmot FUCOSA -1 Daunenschlafsack ist das perfekte Outdoor-Accessoire für alle, die auf der Suche nach hohem Komfort, optimaler Wärmeleistung und bester Qualität sind. Diese Marmot-Produkt ist in der ansprechenden Farbkombination Surf/Tomato erhältlich und überzeugt durch sein einzigartiges Design und hohe Funktionalität.</p><p class=\"justify\">Der Daunenschlafsack gehört zur Kategorie der Ausrüstung und ist speziell auf die Bedürfnisse von Schlafsacknutzern zugeschnitten, die sich gerne im Freien aufhalten und auf beständige Wärme angewiesen sind. Die Füllung aus hochwertigen Daunen sorgt dafür, dass der Schlafsack besonders leicht und dennoch warm ist. Mit einer Temperaturgrenze von -1 Grad Celsius eignet sich der Marmot FUCOSA -1 besonders für Frühling, Sommer und Herbst.</p><p class=\"justify\">Das renommierte Unternehmen Marmot legt bei der Entwicklung und Produktion seiner Produkte stets großen Wert auf Qualität. So auch beim FUCOSA -1 Daunenschlafsack. Durch die Verwendung bester Materialien ist die Langlebigkeit und Robustheit des Schlafsacks gewährleistet. Dieser Schlafsack eignet sich daher ideal für Outdoor-Aktivitäten wie Wandern, Trekking oder Camping.</p><p class=\"justify\">Neben dem ansprechenden Design und der hervorragenden Qualität hat der Marmot FUCOSA -1 Daunenschlafsack auch in puncto Benutzerfreundlichkeit einiges zu bieten. Der Schlafsack ist in verschiedenen Größen erhältlich und lässt sich dank seines geringen Packmaßes und Gewichts leicht transportieren. Mit einem Preis von 259,95 Euro ist der Schlafsack eine wertvolle Investition in eine beständige und hochwertige Outdoor-Ausrüstung.</p><p class=\"justify\">Der Marmot FUCOSA -1 Daunenschlafsack hat bei seiner bisherigen Kundschaft bereits viele positive Bewertungen erhalten und insgesamt 4 von 5 möglichen Sternen erzielt. Damit zählt das Produkt zu den hoch geschätzten Outdoor-Ausrüstungsgegenständen, die sowohl in puncto Qualität als auch in Sachen Funktion und Design überzeugen können. Wer also auf der Suche nach einem zuverlässigen und langlebigen Daunenschlafsack ist, sollte sich den Marmot FUCOSA -1 einmal genauer ansehen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637661674",
-        "seo": {
-          "texts": [
+                "sku": "5637661674",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "FRILUFTS FARA Sommerschlafsack: Leichter und bequemer Schlafsack für warme Nächte",
+                            "text": "<p class=\"justify\">Der FRILUFTS FARA Sommerschlafsack ist ein leichter und bequemer Kunstfaserschlafsack, ideal für warme Nächte beim Camping oder Wandern. Mit seiner mediterranian blue Farbe und der hohen Qualität, die man von der Marke FRILUFTS erwarten kann, ist dieser Schlafsack nicht nur äußerst funktional, sondern auch stilvoll.</p><p class=\"justify\">Der FARA Sommerschlafsack gehört zur Kategorie der Kunstfaserschlafsäcke, die für ihre hervorragende Wärmeleistung, Langlebigkeit und Pflegeleichtigkeit bekannt sind. Die Kunstfaserfüllung sorgt dafür, dass der Schlafsack nach einem langen Tag schnell trocknet und auch in feuchten Umgebungen warm und gemütlich bleibt. Mit einem Gewicht von nur 39,99 Euro bietet dieser Schlafsack ein hervorragendes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">FRILUFTS ist eine Marke, die sich auf Outdoor- und Campingausrüstung spezialisiert hat, und ihr FARA Sommerschlafsack ist ein weiteres Beispiel für ihr Engagement für Qualität und Benutzerfreundlichkeit. Die 390 Bewertungen mit durchschnittlich 5 Sternen sprechen für die Zufriedenheit der Kunden, die diesen Schlafsack erworben haben. Mit seiner Kombination aus Komfort, Leichtigkeit, Langlebigkeit und ansprechender Optik ist der FARA Sommerschlafsack ein toller Begleiter für jedes Abenteuer.</p><p class=\"justify\">Wenn Sie auf der Suche nach einem leichten, komfortablen und langlebigen Schlafsack für warme Sommernächte sind, ist der FRILUFTS FARA Sommerschlafsack genau das Richtige für Sie. Mit seinen 5 Sternen und einer großen Anzahl an begeisterten Kunden ist dieser Schlafsack definitiv eine Überlegung wert. Zudem spricht der sehr faire Preis von 39,99 Euro für sich. Lassen Sie sich den FRILUFTS FARA Sommerschlafsack nicht entgehen und genießen Sie erholsame Nächte auf Ihren Camping- und Wanderabenteuern!</p>"
+                        }
+                    ]
+                }
+            },
             {
-              "title": "FRILUFTS FARA Sommerschlafsack: Leichter und bequemer Schlafsack für warme Nächte",
-              "text": "<p class=\"justify\">Der FRILUFTS FARA Sommerschlafsack ist ein leichter und bequemer Kunstfaserschlafsack, ideal für warme Nächte beim Camping oder Wandern. Mit seiner mediterranian blue Farbe und der hohen Qualität, die man von der Marke FRILUFTS erwarten kann, ist dieser Schlafsack nicht nur äußerst funktional, sondern auch stilvoll.</p><p class=\"justify\">Der FARA Sommerschlafsack gehört zur Kategorie der Kunstfaserschlafsäcke, die für ihre hervorragende Wärmeleistung, Langlebigkeit und Pflegeleichtigkeit bekannt sind. Die Kunstfaserfüllung sorgt dafür, dass der Schlafsack nach einem langen Tag schnell trocknet und auch in feuchten Umgebungen warm und gemütlich bleibt. Mit einem Gewicht von nur 39,99 Euro bietet dieser Schlafsack ein hervorragendes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">FRILUFTS ist eine Marke, die sich auf Outdoor- und Campingausrüstung spezialisiert hat, und ihr FARA Sommerschlafsack ist ein weiteres Beispiel für ihr Engagement für Qualität und Benutzerfreundlichkeit. Die 390 Bewertungen mit durchschnittlich 5 Sternen sprechen für die Zufriedenheit der Kunden, die diesen Schlafsack erworben haben. Mit seiner Kombination aus Komfort, Leichtigkeit, Langlebigkeit und ansprechender Optik ist der FARA Sommerschlafsack ein toller Begleiter für jedes Abenteuer.</p><p class=\"justify\">Wenn Sie auf der Suche nach einem leichten, komfortablen und langlebigen Schlafsack für warme Sommernächte sind, ist der FRILUFTS FARA Sommerschlafsack genau das Richtige für Sie. Mit seinen 5 Sternen und einer großen Anzahl an begeisterten Kunden ist dieser Schlafsack definitiv eine Überlegung wert. Zudem spricht der sehr faire Preis von 39,99 Euro für sich. Lassen Sie sich den FRILUFTS FARA Sommerschlafsack nicht entgehen und genießen Sie erholsame Nächte auf Ihren Camping- und Wanderabenteuern!</p>"
+                "sku": "5637827331",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Western Mountaineering FLYLITE Daunenschlafsack - Perfekter Begleiter für Ihre Abenteuer",
+                            "text": "<p class=\"justify\">Der Western Mountaineering FLYLITE Daunenschlafsack (SKU: 5637827331) ist ein hochwertiger, leichter Schlafsack in den Farben Orange und Grau. Dieses Modell von Western Mountaineering, einer renommierten Marke für erstklassige Outdoor-Ausrüstung, bietet Komfort, Wärme und Qualität für Ihre Outdoor-Abenteuer und Expeditionen.</p><p class=\"justify\">Das FLYLITE-Modell ist für seine Daunenfüllung bekannt, die für hervorragende Isolationseigenschaften sorgt. Dadurch eignet sich der Schlafsack für unterschiedlichste Wetterbedingungen und stellt sicher, dass Sie gut geschützt sind. Zudem ist der Daunenschlafsack extrem leicht und kompakt, wodurch er perfekt für Wanderungen, Camping-Trips und Reisen geeignet ist, bei denen jedes Gramm zählt.</p><p class=\"justify\">Die Kategorie “Start”, in welcher der Western Mountaineering FLYLITE Daunenschlafsack einsortiert ist, gibt Ihnen einen ersten Einblick in die Vielfalt der hochwertigen Ausrüstung von Western Mountaineering. Dieser Schlafsack gehört ebenfalls in die Kategorie “Ausrüstung”, “Schlafsäcke”, “Daunenschlafsäcke” und “FLYLITE”.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen bei 128 Bewertungen bestätigen viele zufriedene Kunden die Qualität des Western Mountaineering FLYLITE Daunenschlafsacks. Insbesondere wird die hervorragende Isolation, das geringe Gewicht sowie die bequeme Passform geschätzt. Der Preis von 424,95 Euro spiegelt die exzellente Verarbeitung und Qualität dieses Schlafsacks wider.</p><p class=\"justify\">Wenn Sie also auf der Suche nach einem zuverlässigen, komfortablen und hochwertigen Daunenschlafsack für Ihre Outdoor-Abenteuer sind, ist der Western Mountaineering FLYLITE Daunenschlafsack eine ausgezeichnete Wahl. Mit diesem Schlafsack werden Sie weder frieren noch unter seinem Gewicht leiden, sodass Sie die Schönheit der Natur unbeschwert genießen können.</p>"
+                        }
+                    ]
+                }
             }
-          ]
-        }
-      },
-      {
-        "sku": "5637827331",
-        "seo": {
-          "texts": [
-            {
-              "title": "Western Mountaineering FLYLITE Daunenschlafsack - Perfekter Begleiter für Ihre Abenteuer",
-              "text": "<p class=\"justify\">Der Western Mountaineering FLYLITE Daunenschlafsack (SKU: 5637827331) ist ein hochwertiger, leichter Schlafsack in den Farben Orange und Grau. Dieses Modell von Western Mountaineering, einer renommierten Marke für erstklassige Outdoor-Ausrüstung, bietet Komfort, Wärme und Qualität für Ihre Outdoor-Abenteuer und Expeditionen.</p><p class=\"justify\">Das FLYLITE-Modell ist für seine Daunenfüllung bekannt, die für hervorragende Isolationseigenschaften sorgt. Dadurch eignet sich der Schlafsack für unterschiedlichste Wetterbedingungen und stellt sicher, dass Sie gut geschützt sind. Zudem ist der Daunenschlafsack extrem leicht und kompakt, wodurch er perfekt für Wanderungen, Camping-Trips und Reisen geeignet ist, bei denen jedes Gramm zählt.</p><p class=\"justify\">Die Kategorie “Start”, in welcher der Western Mountaineering FLYLITE Daunenschlafsack einsortiert ist, gibt Ihnen einen ersten Einblick in die Vielfalt der hochwertigen Ausrüstung von Western Mountaineering. Dieser Schlafsack gehört ebenfalls in die Kategorie “Ausrüstung”, “Schlafsäcke”, “Daunenschlafsäcke” und “FLYLITE”.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen bei 128 Bewertungen bestätigen viele zufriedene Kunden die Qualität des Western Mountaineering FLYLITE Daunenschlafsacks. Insbesondere wird die hervorragende Isolation, das geringe Gewicht sowie die bequeme Passform geschätzt. Der Preis von 424,95 Euro spiegelt die exzellente Verarbeitung und Qualität dieses Schlafsacks wider.</p><p class=\"justify\">Wenn Sie also auf der Suche nach einem zuverlässigen, komfortablen und hochwertigen Daunenschlafsack für Ihre Outdoor-Abenteuer sind, ist der Western Mountaineering FLYLITE Daunenschlafsack eine ausgezeichnete Wahl. Mit diesem Schlafsack werden Sie weder frieren noch unter seinem Gewicht leiden, sodass Sie die Schönheit der Natur unbeschwert genießen können.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Schlafsack Shop",
-    "defaultMetaDescription": "Produkte und Testsieger aus der Kategorie $KATEGORIE. Kaufen Sie ihren Schlafsack zum Best-Preis und sparen Sie Versandkosten und lange Wartezeiten.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "Schlafsack",
-        "slug": "Schlafsack",
-        "name": "Schlafsack",
-        "seo": {
-          "title": "Schlafsäcke günstig kaufen",
-          "metaDescription": "Schlafsäcke sind ein Muss für jeden Outdoor-Ausflug. Bleiben Sie warm und komfortabel die ganze Nacht lang mit einem dieser top-bewerteten Schlafsäcke.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Produkte von $HERSTELLER | Schlafsack Shop",
-    "defaultMetaDescription": "Alle Schlafsäcke von $HERSTELLER finden Sie in unserem Shop für Schlafsäcke. Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "Carinthia",
-        "name": "Carinthia",
-        "seo": {
-          "title": "Produkte von Carinthia günstig kaufen",
-          "metaDescription": "Alle Produkte von Carinthia im Überblick. Produkte und Testsieger. Der Hersteller für gute Schlafsäcke.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "Sea To Summit",
-        "name": "Sea To Summit",
-        "seo": {
-          "title": "Produkte von Sea To Summit günstig kaufen",
-          "metaDescription": "Alle Produkte von Sea To Summit im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte wie z.B. ein Schlafsack mit Beinen.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Material",
-    "Atmungsaktivität",
-    "Nachhaltig",
-    "Komfort",
-    "Vielseitiger Einsatzbereich",
-    "Sehr gute Konstruktion",
-    "Gut komprimierbar"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Home",
-      "linkTo": "/",
-      "linkTitle": "Schlafsack",
-      "publish": true
+        ]
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Schlafsack Shop",
-      "publish": true
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Schlafsack Shop",
+        "defaultMetaDescription": "Produkte und Testsieger aus der Kategorie $KATEGORIE. Kaufen Sie ihren Schlafsack zum Best-Preis und sparen Sie Versandkosten und lange Wartezeiten.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "Schlafsack",
+                "slug": "Schlafsack",
+                "name": "Schlafsack",
+                "seo": {
+                    "title": "Schlafsäcke günstig kaufen",
+                    "metaDescription": "Schlafsäcke sind ein Muss für jeden Outdoor-Ausflug. Bleiben Sie warm und komfortabel die ganze Nacht lang mit einem dieser top-bewerteten Schlafsäcke.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
     },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Schlafsack Marken"
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Schlafsack Shop",
+        "defaultMetaDescription": "Alle Schlafsäcke von $HERSTELLER finden Sie in unserem Shop für Schlafsäcke. Finden Sie den perfekten Schlafsack für Ihre Bedürfnisse.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "Carinthia",
+                "name": "Carinthia",
+                "seo": {
+                    "title": "Produkte von Carinthia günstig kaufen",
+                    "metaDescription": "Alle Produkte von Carinthia im Überblick. Produkte und Testsieger. Der Hersteller für gute Schlafsäcke.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Sea To Summit",
+                "name": "Sea To Summit",
+                "seo": {
+                    "title": "Produkte von Sea To Summit günstig kaufen",
+                    "metaDescription": "Alle Produkte von Sea To Summit im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte wie z.B. ein Schlafsack mit Beinen.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
     },
-    {
-      "title": "FAQ",
-      "linkTitle": "Schlafsack FAQ",
-      "linkTo": "/faq/",
-      "publish": true
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Nachhaltig",
+        "Komfort",
+        "Vielseitiger Einsatzbereich",
+        "Sehr gute Konstruktion",
+        "Gut komprimierbar"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Schlafsack",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Schlafsack Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Schlafsack Marken"
+        },
+        {
+            "title": "FAQ",
+            "linkTitle": "Schlafsack FAQ",
+            "linkTo": "/faq/",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
